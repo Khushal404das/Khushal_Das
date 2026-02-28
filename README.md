@@ -41,15 +41,6 @@ Web Development • Artificial Intelligence • Machine Learning • Python Auto
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Khushal404das&theme=onedark&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-
 
 
 <div align="center">
