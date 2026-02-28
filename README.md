@@ -46,3 +46,38 @@ Web Development • Artificial Intelligence • Machine Learning • Python Auto
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=100&section=footer" width="100%" />
 </div>
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats - Using demolab service (reliable) -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=muhammadadil0&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=muhammadadil0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  
+  <!-- GitHub Stats Badges using Shields.io (reliable, no Vercel) -->
+  <img src="https://img.shields.io/github/followers/muhammadadil0?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/muhammadadil0?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=fbbf24" alt="Total Stars" />
+  
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  
+  <img src="https://img.shields.io/github/last-commit/muhammadadil0/muhammadadil0?label=Last%20Update&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6" alt="Last Update" />
+  
+</div>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/muhammadadil0/muhammadadil0/blob/output/github-snake-dark.svg)
+  
+</div>
