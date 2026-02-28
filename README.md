@@ -49,30 +49,8 @@ Web Development • Artificial Intelligence • Machine Learning • Python Auto
 
 </div>
 
-<div align="center" style="margin-top: 20px;">
 
-  <img src="https://komarev.com/ghpvc/?username=Khushal404das&label=Profile%20Views&color=00e5a0&style=for-the-badge" alt="Profile Views" />
 
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-  <img src="https://img.shields.io/github/followers/Khushal404das?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Khushal404das?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=fbbf24" alt="Total Stars" />
-
-</div>
-
-<div align="center" style="margin-top: 10px;">
-
-  <img src="https://img.shields.io/github/last-commit/Khushal404das/Khushal404das?label=Last%20Update&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6" alt="Last Update" />
-
-</div>
-
-<div align="center">
-
-  ![snake gif](https://github.com/Khushal404das/Khushal404das/blob/output/github-snake-dark.svg)
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=100&section=footer" width="100%" />
